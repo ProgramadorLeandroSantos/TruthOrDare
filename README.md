@@ -8,6 +8,7 @@
 
 1 - Clone or download the Project to your machine.<br/>
 2 - Open the project in Android Studio.<br/>
+3 - Run on emulator.
 
 ## About the main components
 ### Bottle
