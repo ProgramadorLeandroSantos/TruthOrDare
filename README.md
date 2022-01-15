@@ -1,7 +1,7 @@
 # TruthOrDare
 #### About the App: A simple Android game that reminds you of your childhood .
 
-![CodeHero](https://github.com/ProgramadorLeandroSantos/CodeHero-Objective/blob/main/src/assets/gifts/codehero.gif)
+![TruthOrDare](https://github.com/ProgramadorLeandroSantos/TruthOrDare/blob/master/app/src/main/res/drawable/truthordare.gif)
 
 
 ## How to use?
